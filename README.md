@@ -2,3 +2,4 @@
 This is used to study javascript.
 You can contact me if necessaty.
 As you can see, creat a Js file is very easy.
+This is a line that will be delete in the future.
