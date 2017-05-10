@@ -1,9 +1,10 @@
 #include<iostream>
 int main(void){
-    int age=20;
-    int size=20;
+    int p_age=20;
+    int j_size=20;
     string name="Master Tao";
     std::cout<<name;
 
     int number=5;
+
 }
