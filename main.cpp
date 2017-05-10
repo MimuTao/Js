@@ -7,4 +7,5 @@ int main(void){
 
     int number=5;
     int goods=10;
+    std::cout<<"This is a foolish decision.";
 }
