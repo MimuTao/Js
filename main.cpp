@@ -6,5 +6,5 @@ int main(void){
     std::cout<<name;
 
     int number=5;
-
+    int goods=10;
 }
