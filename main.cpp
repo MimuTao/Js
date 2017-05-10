@@ -4,4 +4,6 @@ int main(void){
     int size=20;
     string name="Master Tao";
     std::cout<<name;
+
+    int number=5;
 }
