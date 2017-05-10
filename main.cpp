@@ -1,6 +1,6 @@
 #include<iostream>
 int main(void){
-    std::cout<<"This is a good thing";
+    int age=20;
     string name="Master Tao";
     std::cout<<name;
 }
